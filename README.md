@@ -11,8 +11,13 @@
 
 ## 💡 프로젝트 소개
 
-일기를 기반으로 한 소개팅 서비스<br/>
-매칭 선호를 기반으로 하여 일기를 보여주고, 좋아요를 통해 매칭을 해주는 일기 소개팅 서비스입니다.
+기존의 SNS, 소개팅 어플에서 요구하는 사진, 동영상 등의 복잡한 미디어 대신<br/>
+상대적으로 준비 난이도가 낮고 사람의 외양보다는 내면에 집중할 수 있는<br/>
+텍스트 미디어인 일기를 활용한 웹 어플리케이션을 개발하고자 하였습니다.<br/>
+<br/>
+"(마음을) 연 다(이어리)" 라는 캐치 프레이즈에서 출발한 이 프로젝트는<br/>
+사용자의 선호도를 기반으로 다른 이용자들의 일기를 제공하고,<br/>
+좋아요를 통해 매칭을 해주는 소개팅 서비스입니다.
 
 ## 🎬 프로젝트 진행상황
 
@@ -172,7 +177,7 @@
   ┣ 📂middlewares	: 미들 웨어
   ┣ 📂models	: DB 테이블 타입 설정
   ┣ 📂routes	: 라우트
-  ┣ 📂schemas : 스키마
+  ┣ 📂schemas  : 스키마
   ┣ 📂sockets	: 소켓
   ┣ 📂storage	: 저장소
   ┣ 📂tests	: Jest 통합 테스트
@@ -180,13 +185,13 @@
   ┣ 📜app.ts	: Express/Socket.io 및 라우팅
   ┣ 📜db.ts	: DB 연결 싱글턴 객체
   ┣ 📜error.ts	: 에러 설정
-  ┣ 📜index.ts : 루트 파일 (서버 설정)
+  ┣ 📜index.ts  : 루트 파일 (서버 설정)
   ┗ 📜logger.ts : Logger 설정
 ┣ 📜jest.config.mjs	: Jest 설정
 ┣ 📜nodemon.json	: Dev 설정
 ┣📜eslint.config.mjs	: ESLint 설정
 ┣📜.eslintrc.js : ESLint 설정
-┗📜.prettierrc : Prettier 설정
+┗📜.prettierrc  : Prettier 설정
 
 ```
 
@@ -197,7 +202,7 @@
   ┣ 📂api		: rest api 호출
   ┣ 📂assets		: 이미지, 폰트 파일
   ┣ 📂components	: 컴포넌트
-  ┣ 📂constants	: 상수
+  ┣ 📂constants	        : 상수
   ┣ 📂hooks		: 커스텀 훅
   ┣ 📂layout 		: 레이아웃
   ┣ 📂mocks		: mock data
