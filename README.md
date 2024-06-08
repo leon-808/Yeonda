@@ -131,8 +131,7 @@
 ### ✔︎ 일기 상세보기 페이지
 
 - 조회, 수정, 삭제 등 기본적인 동작이 가능합니다
-- 첫 작성시 자동 태깅되었던 태그들을
-- 자신이 원하는 태그로도 수정할 수 있습니다
+- 첫 작성시 자동 태깅되었던 태그들을 원하는 태그로도 다시 수정할 수 있습니다
 <details markdown="1">
 <summary>DiaryDetail</summary>
   <img width="300" src="https://github.com/pbk95120/Yeonda/assets/84204779/7f3b959d-57a3-4137-9d03-aab494cd1e29">
