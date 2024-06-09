@@ -57,7 +57,7 @@
 - 튜토리얼 페이지를 모두 확인하면 로그인 페이지로 이동합니다.
 <details markdown="1">
 <summary>튜토리얼</summary>
-  <img width="300" src="https://velog.velcdn.com/images/geun99/post/fc8a4c3d-0675-4aea-a187-366dc03a2572/image.gif">
+  ![Imgur](https://imgur.com/a/guhJchv)
 </details>
 
 ### ✔︎ 로그인/회원가입/비밀번호 찾기
