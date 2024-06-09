@@ -57,7 +57,7 @@
 - 튜토리얼 페이지를 모두 확인하면 로그인 페이지로 이동합니다.
 <details markdown="1">
 <summary>튜토리얼</summary>
-  ![Imgur](https://imgur.com/a/guhJchv)
+  <img width="300" src="https://i.imgur.com/u7fv3mm.gif" title="source: imgur.com" /></a>
 </details>
 
 ### ✔︎ 로그인/회원가입/비밀번호 찾기
